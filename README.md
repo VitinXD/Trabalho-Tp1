@@ -8,4 +8,4 @@ Cada usuario do software tem acesso limitado sistema podendo de inicio apena vis
 
 Para produção foram utilizadas as linguagem C++ e SQL para os bancos de dados (onde são armazenados todos os usuarios, jogos, e ingressos). Para mais informações sobre o funcionamento do sistema consultar o smoke test.
 
-obs:o programa não possui interfaçe, então todas interações so relizadas no prompt de comando.
+Obs: O programa não possui interfaçe, então todas interações so relizadas no prompt de comando.
